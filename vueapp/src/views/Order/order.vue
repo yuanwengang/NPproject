@@ -1,6 +1,6 @@
 <template>
   <div>
-  这是姣姣啊!!!这是订单页面!!!
+
   </div>
 </template>
 
